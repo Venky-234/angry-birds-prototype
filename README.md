@@ -10,5 +10,7 @@ an abandoned angry brids prototype...
 2) leave the mouse button to release the bird
 3) hit r to reset the position 
 
-https://github.com/Venky-234/angry-birds-prototype/assets/77890305/cff0443d-36b8-4b1f-8281-ab09ce9b99bc
+
+https://github.com/Venky-234/angry-birds-prototype/assets/77890305/4a832cc5-0fe9-4b2f-905f-823cb121628e
+
 
