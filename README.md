@@ -1,5 +1,5 @@
 # angry-birds-prototype
-an abandoned angry brids prototype by using the physics equations from my textbook :) ... 
+an abandoned angry brids prototype done from scratch by using the physics equations from my textbook :) ... 
 
 # How to run
 1) install pygame 
